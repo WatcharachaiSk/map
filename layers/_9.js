@@ -1,0 +1,1 @@
+var json__9 = {"type":"FeatureCollection","name":"_9","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":null,"พื้�":"พื้นที่สำหรับสร้างห้าง"},"geometry":{"type":"Point","coordinates":[102.828765752610408,16.446945743225616]}}]}
